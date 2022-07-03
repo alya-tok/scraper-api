@@ -1,10 +1,8 @@
-# scraper-api
-
 # Note
 
 ID</br>
 Jika Ada Bug,</br>
-Silahkan Tunghu nyarr di fix
+Silahkan Tunggu ntar di fix
 
 EN</br>
 If there are bugs,</br>
