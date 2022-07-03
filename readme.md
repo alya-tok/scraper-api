@@ -1,19 +1,6 @@
-# ZXY-API
-
-<p align="center">
-	<img src="https://www.itl.cat/pngfile/big/321-3216663_anime-girl-loli-cute-brown-hair-twintails-cute.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-
-# Usage
-const zxy = require('zxy-api')</br>
-
-# Example
-TIKTOK</br>
-const tiktok = await zxy.downloader.tiktok(url tiktok)
-
 # List Fitur
 # Search
-zxy.search</b></b>
+search</b></b>
 <table class="tg">
 <thead>
   <tr>
@@ -118,7 +105,7 @@ zxy.search</b></b>
 </table>
 
 # Downloader
-zxy.downloader</br></br>
+downloader</br></br>
 <table class="tg">
 <thead>
   <tr>
@@ -175,7 +162,7 @@ zxy.downloader</br></br>
 </table>
 
 # Information
-zxy.info</br></br>
+info</br></br>
 <table class="tg">
 <thead>
   <tr>
@@ -208,7 +195,7 @@ zxy.info</br></br>
 </table>
 
 # Primbon
-zxy.primbon</b></b>
+primbon</b></b>
 <table class="tg">
 <thead>
   <tr>
@@ -235,7 +222,7 @@ zxy.primbon</b></b>
 </table>
 
 # Anime
-zxy.anime</br></br>
+anime</br></br>
 <table class="tg">
 <thead>
   <tr>
@@ -256,7 +243,7 @@ zxy.anime</br></br>
 </table>
 
 # Religi
-zxy.religi</b></b>
+religi</b></b>
 <table class="tg">
 <thead>
   <tr>
