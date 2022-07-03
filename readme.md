@@ -35,7 +35,6 @@ search</b></b>
   <tr>
     <th class="tg-0pky">No</th>
     <th class="tg-0pky">Fitur</th>
-    <th class="tg-0pky">Status</th>
     <th class="tg-0pky">parameter</th>
   </tr>
 </thead>
@@ -48,31 +47,27 @@ search</b></b>
   <tr>
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">gore</td>
-    <td class="tg-0pky">✅</td>
+ 
     <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">layarkita</td>
-    <td class="tg-0pky">✅</td>
     <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
     <td class="tg-0pky">anoboy</td>
-    <td class="tg-0pky">✅</td>
     <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">zerochan</td>
-    <td class="tg-0pky">✅</td>
     <td class="tg-0pky">query</td>
   </tr>
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">konachan</td>
-    <td class="tg-0pky">✅</td>
     <td class="tg-0pky">query</td>
   </tr>
   <tr>
