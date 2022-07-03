@@ -1,7 +1,7 @@
 {
   "name": "sceaper-api",
   "version": "1.0.2",
-  "description": "Gabut doang",
+  "description": "Scraper-Api",
   "main": "index.js",
   "directories": {
     "lib": "lib"
