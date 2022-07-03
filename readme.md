@@ -1,4 +1,33 @@
-# List Fitur
+# scraper-api
+
+# Note
+
+ID</br>
+Jika Ada Bug,</br>
+Silahkan Tunghu nyarr di fix
+
+EN</br>
+If there are bugs,</br>
+please create again
+
+# Installation
+
+## Latest
+
+`npm i github:aliya-tok/scraper-api`
+
+## Npm
+
+`npm i scraper-api`
+
+# Require
+
+```js
+const get = require("scraper-api");
+```
+
+# Docs
+
 # Search
 search</b></b>
 <table class="tg">
@@ -14,7 +43,6 @@ search</b></b>
   <tr>
     <td class="tg-0pky">1</td>
     <td class="tg-0pky">happymod</td>
-    <td class="tg-0pky">✅</td>
     <td class="tg-0pky">query</td>
   </tr>
   <tr>
